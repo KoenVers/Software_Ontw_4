@@ -1,0 +1,11 @@
+Github:
+k0enV
+pw: school
+<<<<<<< HEAD
+
+=======
+>>>>>>> master
+locker:
+koen.verstraelen@student.artesis.be
+pw: school
+(account name: k0enV)
